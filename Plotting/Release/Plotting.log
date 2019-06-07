@@ -1,0 +1,12 @@
+﻿  Plotting.cpp
+C:\Users\Ytm\source\repos\Plotting\Plotting\Plotting.cpp(154): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ytm\source\repos\Plotting\Plotting\Plotting.cpp(155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ytm\source\repos\Plotting\Plotting\Plotting.cpp(156): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ytm\source\repos\Plotting\Plotting\Plotting.cpp(448): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ytm\source\repos\Plotting\Plotting\Plotting.cpp(454): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  Создание кода
+  1 of 921 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Plotting.vcxproj -> C:\Users\Ytm\source\repos\Plotting\Release\Plotting.exe
